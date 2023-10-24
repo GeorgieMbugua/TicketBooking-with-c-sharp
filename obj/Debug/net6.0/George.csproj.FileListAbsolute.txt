@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.AssemblyInfo.cs
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\George\bin\Debug\net6.0\George.exe
+C:\Users\PC\Desktop\George\bin\Debug\net6.0\George.deps.json
+C:\Users\PC\Desktop\George\bin\Debug\net6.0\George.runtimeconfig.json
+C:\Users\PC\Desktop\George\bin\Debug\net6.0\George.dll
+C:\Users\PC\Desktop\George\bin\Debug\net6.0\George.pdb
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.dll
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\refint\George.dll
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.pdb
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\George.genruntimeconfig.cache
+C:\Users\PC\Desktop\George\obj\Debug\net6.0\ref\George.dll
